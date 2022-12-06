@@ -21,7 +21,7 @@ h1 {
 }
 h2 {
     font-size: 1.5em;
-    color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.984);
 }
 
 img.lado {
